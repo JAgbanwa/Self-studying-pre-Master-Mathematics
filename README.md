@@ -12,4 +12,4 @@ This repository lays out my journey of self-studying bachelor level Mathematics 
   - **Topology**
   - **Linear Algebra**
 
-While I have some experience on Linear Algebra and Real Analysis, I intend to revisit them.
+While I have some experience on Linear Algebra and Real Analysis, I intend to revisit them to refresh my memory.
