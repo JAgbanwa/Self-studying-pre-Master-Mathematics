@@ -1,5 +1,5 @@
 # Self-studying pre-Master Mathematics
-This repository lays out my journey of self-studying bachelor level Math subjects, instrumental to pre-Master courses (as in the Netherlands).
+This repository lays out my journey of self-studying bachelor level Mathematics subjects, instrumental to pre-Master courses (as in the Netherlands).
 
 # Subjects include:
 
