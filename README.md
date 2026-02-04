@@ -1,5 +1,5 @@
 # Self-studying pre-Master Mathematics
-This repository lays out my journey of self-studying bachelor level Mathematics subjects, instrumental to pre-Master courses (as in the Netherlands).
+This repository lays out my journey of self-studying bachelor level Mathematics subjects, instrumental to pre-Master courses (as in the Netherlands). I will compile my notes here and exercises from reliable sources like the [MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/exams/) and more.
 
 # Subjects include:
 
@@ -12,4 +12,4 @@ This repository lays out my journey of self-studying bachelor level Mathematics 
   - **Topology**
   - **Linear Algebra**
 
-While I have some experience on Linear Algebra and Real Analysis, I intend to revisit them to refresh my memory.
+While I have some experience on Linear Algebra and Real Analysis, I intend to revisit them to refresh my memory. 
